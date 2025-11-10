@@ -1,4 +1,10 @@
-body{
-    background-color: lightblue;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+body {
+font-family: Arial, sans-serif;
+background-color: #f5f7fa;
+color: #1a5276;
+text-align: center;
+margin-top: 10%;
+}
+h1 {
+color: #154360;
 }
